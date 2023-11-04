@@ -10,6 +10,7 @@ jupyter = "*"
 matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
+graphviz = "*"
 
 [dev-packages]
 
